@@ -1,6 +1,8 @@
 💻 Desenvolvedor de Software com foco em backend e arquitetura de sistemas.  
 🚀 Experiência no desenvolvimento de sistemas corporativos, APIs e soluções web completas.
 
+-- > eversonecampos@gmail.com
+
 ## 👨‍💻 Tecnologias e Ferramentas
 
 ### Backend
