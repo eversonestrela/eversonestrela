@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER ANIMADO - GRADIENTE PRETO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=250&section=header&text=SEU_NOME&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor(a)%20Full%20Stack%20%7C%20.NET%20%7C%20Angular%20%7C%20React%20%7C%20PHP&descAlignY=55&descSize=17&descColor=cccccc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=250&section=header&text=Everson Estrela Campos&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor(a)%20Full%20Stack%20%7C%20.NET%20%7C%20Angular%20%7C%20React%20%7C%20PHP&descAlignY=55&descSize=17&descColor=cccccc" width="100%"/>
 
 <!-- TEXTO DIGITANDO - PRETO E BRANCO -->
 <a href="https://git.io/typing-svg">
