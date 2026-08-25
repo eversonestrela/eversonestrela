@@ -23,8 +23,8 @@
 ### `> sobre_mim.yaml`
 
 ```yaml
-nome: "Seu Nome"
-localizacao: "Sua Cidade, Brasil"
+nome: "Everson Estrela Campos"
+localizacao: "Cuiabá, Brasil"
 cargo: "Desenvolvedor(a) Full Stack"
 backend: ["C#", ".NET", "ASP.NET Web Forms", "PHP"]
 frontend: ["Angular", "React"]
