@@ -1,13 +1,12 @@
 <div align="center">
 
-<!-- BANNER ANIMADO - GRADIENTE PRETO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=250&section=header&text=Everson&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor(a)%20Full%20Stack%20%7C%20.NET%20%7C%20Angular%20%7C%20React%20%7C%20PHP&descAlignY=55&descSize=17&descColor=cccccc" width="100%"/>
+<!-- BANNER ANIMADO - DARK GRADIENTE COLORIDO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,75:2563eb,100:06b6d4&height=250&section=header&text=Everson&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor(a)%20Full%20Stack%20%7C%20.NET%20%7C%20Angular%20%7C%20React%20%7C%20PHP&descAlignY=55&descSize=17&descColor=dbeafe" width="100%"/>
 
-<!-- TEXTO DIGITANDO - PRETO E BRANCO -->
+<!-- TEXTO DIGITANDO - DARK COM DESTAQUE EM CIANO -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=110&lines=%3E+whoami;desenvolvedor(a)+full+stack;C%23+%2F+.NET+%2F+Web+Forms;Angular+%2F+React+%2F+PHP;SQL+Server+%2F+T-SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=900&color=67E8F9&background=0F172A&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=110&lines=%3E+whoami;desenvolvedor(a)+full+stack;C%23+%2F+.NET+%2F+Web+Forms;Angular+%2F+React+%2F+PHP;SQL+Server+%2F+T-SQL" alt="Typing SVG" />
 </a>
-
 <!-- BADGES PRETAS -->
 <p>
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
