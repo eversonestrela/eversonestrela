@@ -4,9 +4,8 @@
 
 <!-- TEXTO DIGITANDO -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=900&color=67E8F9&background=0F172A&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=110&lines=%3E+whoami;desenvolvedor+full+stack;C%23+%2F+.NET+%2F+Web+Forms;Angular+%2F+React+%2F+PHP;SQL+Server+%2F+T-SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=900&color=67E8F9&background=0F172A&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=%3E+whoami;desenvolvedor+full+stack;C%23+%2F+.NET+%2F+Web+Forms;Angular+%2F+React+%2F+PHP;SQL+Server+%2F+T-SQL" alt="Typing SVG" />
 </a>
-
 <!-- BADGES DE CONTATO -->
 <p>
   <a href="https://github.com/eversonestrela" target="_blank"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/></a>
