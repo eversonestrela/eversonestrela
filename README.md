@@ -60,13 +60,13 @@ status: "compilando ideias em produção 24/7"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=2&width=100%"/>
 
-### `> projetos_destaque`
+[### `> projetos_destaque`
 
 <div align="center">
 
 🚧 Em breve — ainda sem repositórios fixados. Assim que tiver os projetos, é só me chamar que eu adiciono os cards aqui.
 
-</div>
+</div>](url)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=2&width=100%"/>
 
