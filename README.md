@@ -73,8 +73,9 @@ status: "compilando ideias em produção 24/7"
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=2&width=100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3500&pause=1500&color=67E8F9&background=0F172A&center=true&vCenter=true&width=500&height=40&lines=%3C+codando+em+produ%C3%A7%C3%A3o+desde+sempre+%2F%3E" alt="footer typing" />
-<img src="https://komarev.com/ghpvc/?username=eversonestrela&style=for-the-badge&color=0f172a&label=VISITANTES" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3500&pause=1500&color=67E8F9&background=0F172A&center=true&vCenter=true&width=550&height=40&lines=%3E+transformando+ideias+em+c%C3%B3digo+desde+sempre+%2F%3E" alt="footer typing" />
+  <img src="https://komarev.com/ghpvc/?username=eversonestrela&style=for-the-badge&color=0f172a&label=VISITANTES" />
 </div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,75:2563eb,100:06b6d4&height=100&section=footer" width="100%"/>
