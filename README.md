@@ -76,35 +76,6 @@ status: "compilando ideias em produção 24/7"
   <img src="https://raw.githubusercontent.com/eversonestrela/eversonestrela/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
-> **Como ativar:** crie um repositório público chamado exatamente `eversonestrela` (mesmo nome do seu usuário) → adicione este `README.md` nele → crie `.github/workflows/snake.yml` com o conteúdo abaixo → ative as GitHub Actions do repositório.
-
-```yaml
-name: generate snake
-on:
-  schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake
-        with:
-          github_user_name: eversonestrela
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=2&width=100%"/>
 
